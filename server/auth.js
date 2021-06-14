@@ -1,5 +1,4 @@
 import { log } from './logging';
-import { get } from 'lodash';
 
 import { attemptLogin, generateUserAccessToken } from './domain/login';
 

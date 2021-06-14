@@ -1,4 +1,3 @@
-import { log } from './logging';
 import { mutations, queries } from './graphql';
 import { get, map, values } from 'lodash';
 

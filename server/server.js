@@ -1,6 +1,5 @@
 const express = require('express');
 const app = express();
-const promise = require('bluebird'); // or any other Promise/A+ compatible library;
 
 let bodyParser = require('body-parser');
 
